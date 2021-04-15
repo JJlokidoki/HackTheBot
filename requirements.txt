@@ -1,0 +1,4 @@
+requests==2.25.1
+discord==1.0.1
+httpx==0.17.1
+trio==0.18.0
